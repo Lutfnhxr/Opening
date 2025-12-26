@@ -23,11 +23,8 @@ Built to highlight skills in web development, IoT, and networking.
 ---
 
 ## 🛠️ Tech Stack
-- HTML5
-- CSS3
+- HTML
+- CSS
 - JavaScript
 - GitHub Pages
-
----
-
-## 📂 Project Structure
+- PHP
